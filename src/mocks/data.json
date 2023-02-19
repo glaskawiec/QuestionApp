@@ -1,0 +1,19 @@
+[
+  {
+    "id": 0,
+    "question": "What is your favorite pet?",
+    "answerType": "RadioSelection",
+    "possibleAnswers": ["Dog 🐕", "Cat 🐱", "Rabbit 🐰"]
+  },
+  {
+    "id": 1,
+    "question": "What car brands do you like?",
+    "answerType": "SetOfCheckboxes",
+    "possibleAnswers": ["Audi", "BMW", "Mercedes"]
+  },
+  {
+    "id": 2,
+    "question": "Write something about yourself",
+    "answerType": "FreeFormText"
+  }
+]
